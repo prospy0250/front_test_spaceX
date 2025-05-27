@@ -27,16 +27,18 @@ import HelloWorld from './components/HelloWorld.vue'
   filter: drop-shadow(0 0 2em #42b883aa);
 }
 </style> -->
-
 <template>
   <main class="container mx-auto p-4">
     <h1 class="text-4xl font-bold text-center mb-8">SpaceX Launches</h1>
     <NextLaunch />
+    <LaunchList />
   </main>
 </template>
 
 <script setup lang="ts">
 import NextLaunch from './components/NextLaunch.vue'
+import LaunchList from './components/LaunchList.vue'
 </script>
+
 
 
