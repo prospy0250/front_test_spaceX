@@ -28,11 +28,9 @@ A modern Vue 3 + TypeScript application that displays SpaceX launch data using t
   
 ### 2. Install Dependencies
       npm install
-      npm run dev
 
 
 ### 3. Run the Development Server
-     npm install
      npm run dev
 ## Author
      Kamon A. M. Prosper-Adrien SOURABIE- <mandelasourabie@gmail.com>
