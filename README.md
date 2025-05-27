@@ -35,7 +35,7 @@ A modern Vue 3 + TypeScript application that displays SpaceX launch data using t
      npm install
      npm run dev
 ## Author
-     Kamon A. M. Prosper-Adrien - <mandelasourabie@gmail.com>
+     Kamon A. M. Prosper-Adrien SOURABIE- <mandelasourabie@gmail.com>
 
 
 
